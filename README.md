@@ -65,46 +65,9 @@ I believe in learning by building and regularly practice cloud infrastructure, s
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
 
-### ☁️ AWS EC2 — Static Website Deployment
-
-**AWS EC2 | Linux | Apache | HTML | CSS**
-
-* Launched and configured an AWS EC2 instance.
-* Installed and configured Apache HTTP Server.
-* Deployed a static website on an EC2 instance.
-* Configured Security Group rules for web access.
-* Practiced Linux server administration and troubleshooting.
-
-🔗 **Repository:** Coming Soon
-
----
-
-### 💾 AWS EBS — Storage Management
-
-**Amazon EBS | EC2 | Linux**
-
-* Created and attached an EBS volume to an EC2 instance.
-* Practiced Linux disk and filesystem management.
-* Worked with mounting and storage concepts.
-* Practiced persistent cloud storage management.
-
-🔗 **Repository:** Coming Soon
-
----
-
-### ⚖️ AWS ALB & Auto Scaling
-
-**EC2 | ALB | Target Groups | Launch Templates | Auto Scaling**
-
-* Practiced Application Load Balancer configuration.
-* Worked with Target Groups and EC2 instances.
-* Practiced Launch Templates.
-* Worked with Auto Scaling concepts.
-* Learned how load balancing and scaling improve application availability.
-
-🔗 **Repository:** Coming Soon
+🔗 **Repository :** [View Projects](https://github.com/shubham-patil-cloud/aws-cloud-devops-practicals-and-projects)
 
 ---
 
